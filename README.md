@@ -1,1 +1,2 @@
 # Dayc-2
+Phishing emails are scam messages that appear to come from a legitimate organization, like a bank or social media site, to trick you into revealing sensitive information such as passwords, usernames, or credit card numbers. These emails often contain malicious links that lead to fake websites designed to steal your data or ask you to download malicious software. The goal of phishing is to steal your money, personal data, or identity.  
